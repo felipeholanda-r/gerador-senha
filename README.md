@@ -1,7 +1,7 @@
 # GERADOR DE SENHAS
 App para gerar senhas de acordo com as configurações selecionadas.
 
-## Opções disponíveis
+## Recursos
 - Tamanho da senha (caracteres)
 - Letras minúsculas
 - Letras maiúsculas
